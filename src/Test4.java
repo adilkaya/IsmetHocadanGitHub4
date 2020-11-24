@@ -7,4 +7,11 @@ public class Test4 {
         System.out.println("Yeni metodum hazir");
         System.out.println("Sepete ekle kisimlari buralarmis");
     }
+    public static void sepettenSilBolumu()
+    {
+        System.out.println("Sepetten sil bolumu yapildi");
+
+    }
+
+
 }
