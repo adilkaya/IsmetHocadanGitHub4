@@ -5,7 +5,6 @@ public class Test4 {
     public static void yeniMetod()
     {
         System.out.println("Yeni metodum hazir");
-        System.out.println("Sepete ekle kisimlari buralarmis");
     }
     public static void sepettenSilBolumu()
     {
